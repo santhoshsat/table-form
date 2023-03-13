@@ -1,1 +1,16 @@
-/*  */
+.Nametable,th,td,tr{
+    margin: 10%;
+    border: 2px solid black;
+    border-collapse:collapse ;
+}
+.Nametable td{
+    background-color: aqua;
+}
+.Nametable{
+    padding: 40px;
+    width: 80%;
+}
+.Nametable th{
+    background-color: rgb(128, 90, 90);
+    color: white;
+}
